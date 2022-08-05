@@ -1,0 +1,3 @@
+mongosh "mongodb+srv://cluster0.qajr2.mongodb.net/myFirstDatabase" --apiVersion 1 --username haibatluong
+H0964598830
+mongodb+srv://haibatluong:<password>@cluster0.qajr2.mongodb.net/?retryWrites=true&w=majority
